@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Programmieren:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Programmieren_jar</output-path>
+    <root id="archive" name="Programmieren.jar">
+      <element id="module-output" name="Programmieren" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/annotations-22.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/annotations-22.0.0-sources.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
